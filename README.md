@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sisrar40&label=Profile%20views&color=0e75b6&style=flat" alt="sisrar40" /> </p>
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Learning new stuffs**
 
-- 💬 Ask me about **Reactjs, React Native, MERN, HTML, CSS**
+- 💬 Ask me about **Android, iOS, Web**
 
 - 📫 How to reach me **sisrar403@gmail.com**
 
