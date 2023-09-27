@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sisrar40&label=Profile%20views&color=0e75b6&style=flat" alt="sisrar40" /> </p>
 
-- 🌱 I’m currently learning **Learning new stuffs**
+- 🌱 I’m currently learning **new stuffs**
 
 - 💬 Ask me about **Android, iOS, Web**
 
