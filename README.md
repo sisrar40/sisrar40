@@ -3,8 +3,8 @@
 ### **Programmer | Technical Blogger | YouTuber | Passionate about Learning | Lifelong Reader**  
 I’m a software developer who loves exploring new technologies, solving challenging problems, and sharing knowledge with the community. When I'm not coding, you can find me reading books, creating tech tutorials on YouTube, or contributing to open-source projects.
 
-[![Subscribe to my YouTube](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCbz1sDmlQ1Os_hWUtyWP6PQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@s.israr_?sub_confirmation=1)
-[![YouTube Views](https://custom-icon-badges.demolab.com/youtube/channel/views/UCbz1sDmlQ1Os_hWUtyWP6PQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600)](https://www.youtube.com/@s.israr_)
+[![Subscribe to my YouTube](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCGGZFAhyvYNRJPhbHKwbKig?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@s.israr_?sub_confirmation=1)
+[![YouTube Views](https://custom-icon-badges.demolab.com/youtube/channel/views/UCGGZFAhyvYNRJPhbHKwbKig?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600)](https://www.youtube.com/@s.israr_)
 [![Follow me on GitHub](https://custom-icon-badges.demolab.com/github/followers/sisrar40?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/sisrar40?tab=followers)
 [![Total Stars on GitHub](https://custom-icon-badges.demolab.com/github/stars/sisrar40?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/sisrar40?tab=repositories&sort=stargazers)
 
